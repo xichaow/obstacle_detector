@@ -14,7 +14,8 @@
 # Date   : 16/10/2016
 # -----------------------
 
-# Following scripts are created based on Matt Hawkins' scripts.
+# Following scripts are created based on Matt Hawkins' scripts. In addition, we created a script to read information from gmail,
+# where Apple siri commands are stored to. So voice control is enabled to control RaspberryPi.
 
 # -----------------------
 # Import required Python libraries
