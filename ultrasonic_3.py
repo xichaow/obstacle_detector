@@ -14,6 +14,8 @@
 # Date   : 16/10/2016
 # -----------------------
 
+# Following scripts are updated based on Matt Hawkins' scripts.
+
 # -----------------------
 # Import required Python libraries
 # -----------------------
